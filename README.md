@@ -1,0 +1,60 @@
+<h1 align="center"> Amigo Secreto </h1>
+<p align="center">
+  <img src="./assets/logo.png" alt="Logo Amigo Secreto" width="200"/>
+</p>
+
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-EN%20DESARROLLO-green" alt="Estado del proyecto"/>
+  <img src="https://img.shields.io/github/license/tu_usuario/amigo-secreto" alt="Licencia"/>
+</p>
+
+## Índice
+- [Descripción del Proyecto](#descripción-del-proyecto)
+- [Estado del Proyecto](#estado-del-proyecto)
+- [Funcionalidades](#funcionalidades)
+- [Demo / Capturas](#demo--capturas)
+- [Cómo usar](#cómo-usar)
+- [Tecnologías](#tecnologías)
+- [Contribuidores](#contribuidores)
+- [Licencia](#licencia)
+
+---
+
+## Descripción del Proyecto
+Este proyecto es una app web sencilla (HTML, CSS y JavaScript) para organizar un sorteo de **Amigo Secreto** de forma interactiva. Permite ingresar nombres, validar entradas, y asignar amigos secretos al azar sin repeticiones ni autoasignaciones.
+
+---
+
+## Estado del Proyecto
+<h4 align="center">:construction: En desarrollo :construction:</h4>
+El proyecto ya funciona en su versión básica. Planeo agregar almacenamiento local, exportación de resultados y más estilo visual.
+
+---
+
+## Funcionalidades
+- Alerta si el usuario intenta agregar nombres vacíos o duplicados  
+- Visualización de la lista de participantes  
+- Sorteo aleatorio garantizando que nadie se autoasigne  
+- Mensajes al estilo “X tiene a Y como amigo secreto”
+
+---
+
+## Demo / Capturas de Pantalla
+### Formulario para agregar participantes  
+![Captura formulario](./screenshots/formulario.png)
+
+### Lista antes del sorteo  
+![Captura lista](./screenshots/lista.png)
+
+### Resultado del sorteo  
+![Captura resultado](./screenshots/resultado.png)
+
+*(Guarda las imágenes en `screenshots/` dentro del proyecto)*
+
+---
+
+##  Cómo usar
+1. Clona o descarga el repositorio  
+   ```bash
+   git clone https://github.com/tu_usuario/amigo-secreto.git
