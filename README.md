@@ -6,7 +6,7 @@
 <!-- Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-EN%20DESARROLLO-green" alt="Estado del proyecto"/>
-  <img src="https://img.shields.io/github/license/tu_usuario/amigo-secreto" alt="Licencia"/>
+  <img src="https://img.shields.io/github/license/GuadaS03/amigo-secreto" alt="Licencia"/>
 </p>
 
 ## Índice
@@ -28,7 +28,7 @@ Este proyecto es una app web sencilla (HTML, CSS y JavaScript) para organizar un
 
 ## Estado del Proyecto
 <h4 align="center">:construction: En desarrollo :construction:</h4>
-El proyecto ya funciona en su versión básica. Planeo agregar almacenamiento local, exportación de resultados y más estilo visual.
+El proyecto ya funciona en su versión básica. Planeo agregar almacenamiento local, exportación de resultados y más estilo visual en cuanto avance con mi aprendizaje.
 
 ---
 
@@ -42,19 +42,18 @@ El proyecto ya funciona en su versión básica. Planeo agregar almacenamiento lo
 
 ## Demo / Capturas de Pantalla
 ### Formulario para agregar participantes  
-![Captura formulario](./screenshots/formulario.png)
+![Captura formulario](./screenshots/Captura_añadir_amigo.png)
 
 ### Lista antes del sorteo  
-![Captura lista](./screenshots/lista.png)
+![Captura lista](./screenshots/Captura_lista_amigos.png)
 
 ### Resultado del sorteo  
-![Captura resultado](./screenshots/resultado.png)
+![Captura resultado](./screenshots/Captura_resultado.png)
 
-*(Guarda las imágenes en `screenshots/` dentro del proyecto)*
 
 ---
 
 ##  Cómo usar
 1. Clona o descarga el repositorio  
    ```bash
-   git clone https://github.com/tu_usuario/amigo-secreto.git
+   git clone https://github.com/GuadaS03/amigo-secreto.git
